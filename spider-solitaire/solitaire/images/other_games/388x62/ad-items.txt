@@ -1,0 +1,9 @@
+http://www.free-spider-solitaire.com,spider_solitaire.png
+http://www.free-freecell-solitaire.com,freecell.png
+http://www.solitaire-klondike.com,klondike.png
+http://www.most-difficult-solitaire-games.com,most_difficult.png
+http://www.free-play-mahjong.com,mahjong.png
+http://www.free-word-search.com,word_search.png
+http://www.bubble-shooter-free.com,bubble.png
+http://www.free-play-sudoku.com,sudoku.png
+http://www.free-hearts.com,hearts.png
